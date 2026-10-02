@@ -1,0 +1,10 @@
+{
+  "update_name" : "com.cameraiphone.camera17",
+  "t_name" : "com.cameraiphone.camera17",
+  "update_glasses" : "true",
+  "update_scenes" : "true",
+  "update_frame" : "true",
+  "update_new" : "true",
+  "update_summer" : "true",
+  "versionCode" : "1"
+}
